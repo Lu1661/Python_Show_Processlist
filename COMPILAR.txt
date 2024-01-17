@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=C:/Ingresa/tuRuta/Aqui/MYSQL.ico --add-data "C:/Ingresa/tuRuta/Aqui/MYSQL.ico;." SHOW_PROCESSLIST.py
